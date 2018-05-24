@@ -3,12 +3,12 @@
     "version": "1.0.0",
     "private": false,
     "dependencies": {
-        "mqtt-connection": "3.0.0",
-        "pomelo-scheduler": "0.3.8",
-        "pomelo-monitor": "0.3.7"
+        "mqtt-connection": "^3.0.0",
+        "pomelo-scheduler": "github:zaplmm/pomelo-scheduler",
+        "pomelo-monitor": "github:zaplmm/pomelo-monitor"
     },
     "peerDependencies": {
-        "pomelo-logger": "0.1.7"
+        "pomelo-logger": "github:zaplmm/pomelo-logger"
     },
     "devDependencies": {
         "should": ">=0.0.1",
