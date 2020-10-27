@@ -1,9 +1,9 @@
 {
     "name": "pomelo-admin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "private": false,
     "dependencies": {
-        "mqtt-connection": "^3.0.0",
+        "mqtt-connection": "^3.2.0",
         "pomelo-scheduler": "github:zaplmm/pomelo-scheduler",
         "pomelo-monitor": "github:zaplmm/pomelo-monitor"
     },
